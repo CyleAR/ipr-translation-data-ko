@@ -1,0 +1,39 @@
+{
+  "rule": [
+    "id|description",
+    "id|name",
+    "id|unlockDescription"
+  ],
+  "data": {
+    "marathon-21-0930-quest-4|unlockDescription": "'뜻밖의 생일 라이브 사에키 하루코'를 보유하고 있어야 합니다.",
+    "marathon-21-0930-quest-5|unlockDescription": "'뜻밖의 생일 라이브 사에키 하루코'를 보유하고 있어야 합니다.",
+    "marathon-21-1130-quest-4|unlockDescription": "가슴이 벅차오르는 기대\n나루미야 스즈의 보유가 필요합니다.",
+    "marathon-21-1130-quest-5|unlockDescription": "가슴이 벅차오르는 기대\n나루미야 스즈의 보유가 필요합니다.",
+    "marathon-21-1130-quest-6|description": "BOX 추첨에 필요한 링크스 메달을 획득하기 쉬운 스테이지입니다",
+    "marathon-21-1130-quest-6|name": "메달 스테이지",
+    "marathon-21-1130-quest-6|unlockDescription": "No.5 스테이지 중\n한 스테이지 클리어가\n필요합니다.",
+    "marathon-22-0131-quest-4|unlockDescription": "긴장의 순간\n칸자키 리오의 보유가\n필요합니다.",
+    "marathon-22-0131-quest-5|unlockDescription": "긴장의 순간\n칸자키 리오의 보유가\n필요합니다.",
+    "marathon-22-0131-quest-6|description": "BOX 추첨에 필요한 링크스 메달을 획득하기 쉬운 스테이지입니다",
+    "marathon-22-0131-quest-6|name": "메달 스테이지",
+    "marathon-22-0131-quest-6|unlockDescription": "No.5 스테이지 중\n한 스테이지 클리어가\n필요합니다.",
+    "marathon-22-0526-quest-4|unlockDescription": "'모두의 피스를'\n효도 시즈쿠의 보유가 \n필요합니다.",
+    "marathon-22-0526-quest-5|unlockDescription": "'모두의 피스를'\n효도 시즈쿠의 보유가 \n필요합니다.",
+    "marathon-22-0526-quest-6|description": "BOX 추첨에 필요한 링크스 메달을 획득하기 쉬운 스테이지입니다",
+    "marathon-22-0526-quest-6|name": "메달 스테이지",
+    "marathon-22-0526-quest-6|unlockDescription": "No.5 스테이지 중\n한 스테이지 클리어가\n필요합니다.",
+    "marathon-raid-22-1028-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-0128-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-0328-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-0528-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-0728-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-0927-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-23-1027-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-24-0827-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-25-0128-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "marathon-raid-25-0326-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "mini-marathon-raid-23-1226-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "mini-marathon-raid-24-0327-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다",
+    "mini-marathon-raid-24-0528-quest-4|description": "협력 라이브 각Lv을 해방하는 스테이지 입니다"
+  }
+}

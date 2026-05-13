@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "quest_pressure-0|name": "매우 낮음",
+    "quest_pressure-1|name": "낮음",
+    "quest_pressure-2|name": "보통",
+    "quest_pressure-3|name": "중간",
+    "quest_pressure-4|name": "높음",
+    "quest_pressure-5|name": "매우 높음"
+  }
+}

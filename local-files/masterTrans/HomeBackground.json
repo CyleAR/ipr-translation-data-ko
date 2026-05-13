@@ -1,0 +1,37 @@
+{
+  "rule": [
+    "homeBackgroundId|name"
+  ],
+  "data": {
+    "home-bg-lesson-01|name": "연습실 배경_예비",
+    "home-bg-lesson-01-noon|name": "연습실 배경_낮",
+    "home-bg-office_01|name": "사무실 배경_예비",
+    "home-bg-office_01-evening|name": "사무실 배경_저녁",
+    "home-bg-office_01-night|name": "사무실 배경_밤",
+    "home-bg-office_01-noon|name": "사무실 배경_낮",
+    "home-bg-office_02-evening|name": "사무실 배경_크리스마스_저녁",
+    "home-bg-office_02-night|name": "사무실 배경_크리스마스_밤",
+    "home-bg-office_02-noon|name": "사무실 배경_크리스마스_낮",
+    "home-bg-office_03-evening|name": "사무실 배경_새해_저녁",
+    "home-bg-office_03-night|name": "사무실 배경_새해_밤",
+    "home-bg-office_03-noon|name": "사무실 배경_새해_낮",
+    "home-bg-office_04-evening|name": "사무실 배경_4월_저녁",
+    "home-bg-office_04-night|name": "사무실 배경_4월_밤",
+    "home-bg-office_04-noon|name": "사무실 배경_4월_낮",
+    "home-bg-office_05-evening|name": "오피스 배경_4월 2025_저녁",
+    "home-bg-office_05-night|name": "오피스 배경_4월 2025_밤",
+    "home-bg-office_05-noon|name": "오피스 배경_4월 2025_낮",
+    "new-home-bg-dressroom_01|name": "【신규】대기실 배경_예비",
+    "new-home-bg-dressroom_all|name": "【신규】대기실 배경",
+    "new-home-bg-lesson_01|name": "【신규】레슨 배경_예비",
+    "new-home-bg-lesson_all|name": "【신규】레슨 배경",
+    "new-home-bg-living_01|name": "【신규】기숙사 배경_예비",
+    "new-home-bg-living_01-evening|name": "【신규】기숙사 배경_저녁",
+    "new-home-bg-living_01-night|name": "【신규】기숙사 배경_밤",
+    "new-home-bg-living_01-noon|name": "【신규】기숙사 배경_낮",
+    "new-home-bg-office_01|name": "【신규】오피스 배경_예비",
+    "new-home-bg-office_01-evening|name": "【신규】오피스 배경_저녁",
+    "new-home-bg-office_01-night|name": "【신규】오피스 배경_밤",
+    "new-home-bg-office_01-noon|name": "【신규】오피스 배경_낮"
+  }
+}

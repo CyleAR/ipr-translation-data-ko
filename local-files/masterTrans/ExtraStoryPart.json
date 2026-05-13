@@ -1,0 +1,20 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "ex-st-part-limited-01|name": "도쿄편 1장",
+    "ex-st-part-limited-02|name": "도쿄편 2장",
+    "ex-st-part-limited-03|name": "BIG4편 1장",
+    "ex-st-part-limited-04|name": "호시미편 1장",
+    "ex-st-part-limited-05|name": "호시미편 2장",
+    "ex-st-part-limited-06|name": "호시미편 3장",
+    "ex-st-part-limited-07|name": "호시미편 4장",
+    "ex-st-part-limited-09|name": "LizNoir 1장",
+    "ex-st-part-limited-10|name": "TRINITYAiLE 1장",
+    "ex-st-part-limited-11|name": "나가세 마나 1장",
+    "ex-st-part-limited-12|name": "LizNoir 2장",
+    "ex-story-part-birthday-01|name": "생일",
+    "ex-story-part-special-01|name": "특별편"
+  }
+}

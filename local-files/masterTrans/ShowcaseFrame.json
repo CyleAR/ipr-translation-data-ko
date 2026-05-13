@@ -1,0 +1,16 @@
+{
+  "rule": [
+    "id|description",
+    "id|name"
+  ],
+  "data": {
+    "frame-001|description": "소\n사이즈: 26x23x23",
+    "frame-001|name": "소",
+    "frame-002|description": "소(와이드)\n사이즈: 43x23x23",
+    "frame-002|name": "소(와이드)",
+    "frame-003|description": "중\n사이즈: 43x38x38",
+    "frame-003|name": "중",
+    "frame-004|description": "중\n사이즈: 65×38×38",
+    "frame-004|name": "중"
+  }
+}

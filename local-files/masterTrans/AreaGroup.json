@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "area-main-group-001|name": "루키",
+    "area-main-group-002|name": "레귤러",
+    "area-main-group-003|name": "프로",
+    "area-main-group-004|name": "마스터",
+    "area-main-group-005|name": "월드",
+    "area-main-group-999|name": "튜토리얼"
+  }
+}

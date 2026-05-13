@@ -1,0 +1,18 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "toy-category-alphabet|name": "문자",
+    "toy-category-bigbuttonbadge|name": "빅 캔뱃지",
+    "toy-category-buttonbadge|name": "캔뱃지",
+    "toy-category-chracrylicbord|name": "카드 스탠드",
+    "toy-category-chracrylicsd|name": "미니 캐릭터 스탠드",
+    "toy-category-chracrylicstand|name": "아크릴 스탠드",
+    "toy-category-figure|name": "피규어",
+    "toy-category-nameplate|name": "플레이트",
+    "toy-category-pedestal|name": "받침대",
+    "toy-category-pedestal-set|name": "받침대 세트",
+    "toy-category-tapestry|name": "태피스트리"
+  }
+}

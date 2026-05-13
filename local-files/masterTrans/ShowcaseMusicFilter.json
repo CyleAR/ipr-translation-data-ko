@@ -1,0 +1,12 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "showcase-music-filter-group-hsm|name": "호시미 프로덕션",
+    "showcase-music-filter-group-mna|name": "나가세 마나",
+    "showcase-music-filter-group-moon|name": "달의 템페스트",
+    "showcase-music-filter-group-other|name": "기타",
+    "showcase-music-filter-group-sun|name": "서니 피스"
+  }
+}
