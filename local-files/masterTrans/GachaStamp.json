@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|description"
+    "groupId|sheetNumber|stampNumber|description"
   ],
   "data": {
     "gacha-stamp-sheet-gachastamp-22-1108_1_10|description": "다음 10회 무료 캐스팅!",

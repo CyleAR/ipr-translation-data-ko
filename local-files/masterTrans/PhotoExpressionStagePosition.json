@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|name"
+    "stageId|number|name"
   ],
   "data": {
     "stage-photo-expression-pool-00_1|name": "장소A",

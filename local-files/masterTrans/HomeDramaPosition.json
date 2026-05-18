@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|name"
+    "homeDramaPositionId|name"
   ],
   "data": {
     "home-drama-position-lesson-dance-01-00|name": "댄스_01-00",

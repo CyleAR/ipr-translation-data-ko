@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|name"
+    "homeBackgroundId|name"
   ],
   "data": {
     "home-bg-lesson-01|name": "연습실 배경_예비",

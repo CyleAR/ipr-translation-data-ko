@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|stepInfo.texts"
+    "type|stepInfo.texts"
   ],
   "data": {
     "1|stepInfo[0].texts": "[LA_F]",

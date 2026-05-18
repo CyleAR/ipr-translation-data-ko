@@ -1,7 +1,7 @@
 {
   "rule": [
-    "id|characterArrivalText",
-    "id|managerCallText"
+    "characterId|patternId|characterArrivalText",
+    "characterId|patternId|managerCallText"
   ],
   "data": {
     "char-ai_call-pattern-ai-01|characterArrivalText": "LizNoir의 코미야마 아이입니다!\n신인 아이돌이니 열심히 하겠습니다!\n아이돌은 건강이 생명이죠!\n그래서 취미는 근력 운동입니다!",

@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|text"
+    "homeActionId|text"
   ],
   "data": {
     "home-action-ai-05-fest-00-01|text": "팬 여러분도 좋아해 주시고\n저도 멋지다고 생각해서\n이 의상으로 정해져서 기뻐요!",

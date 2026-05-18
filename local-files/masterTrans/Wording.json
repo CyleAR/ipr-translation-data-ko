@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|word"
+    "key|word"
   ],
   "data": {
     "accessory.enhance.setting.button.ExcludeAllDeck|word": "표준",

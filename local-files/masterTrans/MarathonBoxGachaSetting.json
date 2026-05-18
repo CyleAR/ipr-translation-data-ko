@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|guageName"
+    "marathonId|boxGachaId|guageName"
   ],
   "data": {
     "marathon-21-0930_box_gacha-21-0930-001|guageName": "BOX 게이지",

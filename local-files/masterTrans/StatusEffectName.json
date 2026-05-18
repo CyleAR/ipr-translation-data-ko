@@ -1,6 +1,6 @@
 {
   "rule": [
-    "id|name"
+    "statusEffectType|name"
   ],
   "data": {
     "1|name": "댄스 상승",

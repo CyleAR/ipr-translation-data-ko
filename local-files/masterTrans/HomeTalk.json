@@ -1,10 +1,10 @@
 {
   "rule": [
-    "id|choiceText",
-    "id|displayConditionDescription",
-    "id|managerText",
-    "id|title",
-    "id|characterTalks.text"
+    "homeTalkId|choiceText",
+    "homeTalkId|displayConditionDescription",
+    "homeTalkId|managerText",
+    "homeTalkId|title",
+    "homeTalkId|characterTalks.text"
   ],
   "data": {
     "home-talk-card-ai-05-arab-00-talk-01|choiceText": "무슨 일이야, 아이?\\n고민이라도 있어?",
