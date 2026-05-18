@@ -41,4 +41,3 @@ jobs:
         with:
           repo: CyleAR/ipr-translation-data-ko
           keep_latest:
-
