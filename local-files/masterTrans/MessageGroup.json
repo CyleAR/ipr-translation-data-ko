@@ -5,6 +5,7 @@
   "data": {
     "message_group_ai|name": "아이",
     "message_group_aoi|name": "아오이",
+    "message_group_chn|name": "치노",
     "message_group_chs|name": "치사",
     "message_group_hrk|name": "하루코",
     "message_group_kkr|name": "코코로",
@@ -21,6 +22,7 @@
     "message_group_mna|name": "마나",
     "message_group_ngs|name": "나기사",
     "message_group_rei|name": "레이",
+    "message_group_rik|name": "사쿠라우치 리코",
     "message_group_rio|name": "리오",
     "message_group_rui|name": "루이",
     "message_group_ski|name": "사키",
@@ -30,6 +32,7 @@
     "message_group_suz|name": "스즈",
     "message_group_szk|name": "시즈쿠",
     "message_group_vns|name": "VENUS 사무국",
+    "message_group_yo|name": "와타나베 요우",
     "message_group_yu|name": "유우"
   }
 }
