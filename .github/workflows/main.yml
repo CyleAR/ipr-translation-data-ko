@@ -9,7 +9,9 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,4 +42,4 @@ jobs:
         uses: tinoji/delete-older-release-assets@v1.0.1
         with:
           repo: CyleAR/ipr-translation-data-ko
-          keep_latest:
+          keep_latest: 5
