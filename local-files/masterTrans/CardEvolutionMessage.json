@@ -1,6 +1,6 @@
 {
   "rule": [
-    "cardId|evolutionLevel|number|evolveMessage"
+    "id|evolveMessage"
   ],
   "data": {
     "card-mna-05-link-00_0_1|evolveMessage": "코토노는 내 자랑스러운 여동생이야",

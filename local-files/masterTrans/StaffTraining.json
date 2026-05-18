@@ -1,6 +1,6 @@
 {
   "rule": [
-    "parameterType|name"
+    "id|name"
   ],
   "data": {
     "1|name": "안무가",
