@@ -37,9 +37,3 @@ jobs:
           title: "Release ${{ steps.vars.outputs.version }}"
           files: |
             ${{ github.event.repository.name }}-*
-
-      - name: CleanUp release
-        uses: tinoji/delete-older-release-assets@v1.0.1
-        with:
-          repo: CyleAR/ipr-translation-data-ko
-          keep_latest: 5
