@@ -3,17 +3,17 @@
     "stageId|number|name"
   ],
   "data": {
-    "stage-photo-expression-pool-00_1|name": "장소A",
-    "stage-photo-expression-pool-00_2|name": "장소B",
-    "stage-photo-expression-pool-00_3|name": "장소C",
-    "stage-photo-garden-02_1|name": "장소A",
-    "stage-photo-garden-02_2|name": "장소B",
-    "stage-photo-hillpark-00_1|name": "장소A",
-    "stage-photo-lesson-00_1|name": "장소A",
-    "stage-photo-lesson-00_2|name": "장소B",
-    "stage-photo-living-01_1|name": "장소A",
-    "stage-photo-living-01_2|name": "장소B",
-    "stage-photo-studio-02-000-noon_1|name": "장소A",
-    "stage-photo-themepark-00_1|name": "장소A"
+    "stage-photo-expression-pool-00|1|name": "장소A",
+    "stage-photo-expression-pool-00|2|name": "장소B",
+    "stage-photo-expression-pool-00|3|name": "장소C",
+    "stage-photo-garden-02|1|name": "장소A",
+    "stage-photo-garden-02|2|name": "장소B",
+    "stage-photo-hillpark-00|1|name": "장소A",
+    "stage-photo-lesson-00|1|name": "장소A",
+    "stage-photo-lesson-00|2|name": "장소B",
+    "stage-photo-living-01|1|name": "장소A",
+    "stage-photo-living-01|2|name": "장소B",
+    "stage-photo-studio-02-000-noon|1|name": "장소A",
+    "stage-photo-themepark-00|1|name": "장소A"
   }
 }
