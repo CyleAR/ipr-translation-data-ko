@@ -1,0 +1,39 @@
+name: "release"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+          
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+
+      - name: Package
+        run: |
+          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip version.txt local-files
+
+      - name: Get version
+        id: vars
+        run: echo "version=$(cat version.txt)" >> $GITHUB_OUTPUT
+
+      - name: Release
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: ${{ steps.vars.outputs.version }}
+          prerelease: false
+          title: "Release ${{ steps.vars.outputs.version }}"
+          files: |
+            ${{ github.event.repository.name }}-*
