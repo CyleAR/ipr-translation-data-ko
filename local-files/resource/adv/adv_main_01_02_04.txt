@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=stage1 src=env_adv_2d_shed-00-night] backgrounds=[background id=stage2 src=env_adv_3d_coast-00-000-night] backgrounds=[background id=stage3 src=env_adv_2d_hillpark-00-night]]
 [actorgroup actors=[actor id=mna body=mdl_chr_mng-casl-00_body face=mdl_chr_mng-base-00_face hair=mdl_chr_mng-base-00_hair] actors=[actor id=koh body=mdl_chr_koh-casl-00_body face=mdl_chr_koh-base-00_face hair=mdl_chr_koh-base-00_hair] actors=[actor id=ktn body=mdl_chr_ktn-casl-00_body face=mdl_chr_ktn-base-00_face hair=mdl_chr_ktn-base-00_hair]]
 [actorlayoutgroup layouts=[actorlayout id=mna]]
-[title title=호시미 편 1장 10화 호시미시 축제의 추억]
+[title title=호시미편 1장 10화 호시미시 축제의 추억]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":0.0,"_duration":20.72852618694306,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_outside-01 clip=\{"_startTime":21.19519285360973,"_duration":45.838140479723609,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_flashback-01 clip=\{"_startTime":67.53333333333333,"_duration":31.490927559327476,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

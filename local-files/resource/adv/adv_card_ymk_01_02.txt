@@ -3,7 +3,7 @@
 [actorrenderer id=kkr assets=mdl_prp_microphone-normal-l00_microphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorrenderer id=rio assets=mdl_prp_microphone-normal-l00_microphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorrenderer id=ymk assets=mdl_prp_microphone-normal-l00_microphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[title title=SNOW MIKU 2화 미쿠와 함께하는 노래방 대회]
+[title title=스노우 미쿠 2화 미쿠와 함께하는 노래방 대회]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":0.0,"_duration":62.6925374748,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":63.1925374748,"_duration":48.003709205,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 volume=1 clip=\{"_startTime":111.6962466798,"_duration":21.4327906929,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

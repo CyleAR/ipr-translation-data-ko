@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=01-2d src=env_adv_2d_shed-00-night]]
 [backgroundlayoutgroup layouts=[backgroundlayout id=01-2d]]
 [actorgroup actors=[actor id=skr body=mdl_chr_skr-casl-00_body face=mdl_chr_skr-base-00_face hair=mdl_chr_skr-base-00_hair] actors=[actor id=mei body=mdl_chr_mei-casl-00_body face=mdl_chr_mei-base-00_face hair=mdl_chr_mei-base-00_hair] actors=[actor id=mna body=mdl_chr_mng-casl-00_body face=mdl_chr_mng-base-00_face hair=mdl_chr_mng-base-00_hair] actors=[actor id=koh body=mdl_chr_koh-casl-00_body face=mdl_chr_koh-base-00_face hair=mdl_chr_koh-base-00_hair]]
-[title title=호시미 편 3장 22화 내 노래는]
+[title title=호시미편 3장 22화 내 노래는]
 [actormotion id=koh motion=mot_adv_chr_cmn_talk-002_pose clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorfacialmotion id=koh motion=mot_all_chr_cmn_facial-001_in clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=skr motion=mot_adv_chr_cmn_talk-019_pose clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=stage01 src=env_adv_2d_shed-00-night]]
 [actorgroup actors=[actor id=mna body=mdl_chr_mng-casl-00_body face=mdl_chr_mng-base-00_face hair=mdl_chr_mng-base-00_hair] actors=[actor id=mei body=mdl_chr_mei-casl-00_body face=mdl_chr_mei-base-00_face hair=mdl_chr_mei-base-00_hair] actors=[actor id=ktn body=mdl_chr_ktn-casl-00_body face=mdl_chr_ktn-base-00_face hair=mdl_chr_ktn-base-00_hair]]
-[title title=호시미 편 4장 5화 마지막 숙제]
+[title title=호시미편 4장 5화 마지막 숙제]
 [bgm bgm=sud_bgm_adv_tears-01 clip=\{"_startTime":0.0,"_duration":96.06666666666666,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [backgroundsetting id=stage01]

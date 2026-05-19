@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=01-2d src=env_adv_2d_shed-00-night]]
 [actorgroup actors=[actor id=mna body=mdl_chr_mng-casl-00_body face=mdl_chr_mng-base-00_face hair=mdl_chr_mng-base-00_hair]]
-[title title=호시미 편 4장 12화 아직 사라지지 않아]
+[title title=호시미편 4장 12화 아직 사라지지 않아]
 [bgm bgm=sud_bgm_adv_shed-01 clip=\{"_startTime":0.0,"_duration":71.04231303532913,"_easeInDuration":0.0,"_easeOutDuration":2.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorcolor id=mna color=#FFFFFF00]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

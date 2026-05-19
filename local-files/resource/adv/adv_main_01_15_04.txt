@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=01-2d src=env_adv_2d_ktnroom-00-night] backgrounds=[background id=02-3d src=env_adv_3d_corridor-00-000-night] backgrounds=[background id=03-2d src=env_adv_2d_shed-00-night] backgrounds=[background id=04-2d src=env_adv_2d_gpstage-00-noon]]
 [actorgroup actors=[actor id=skr body=mdl_chr_skr-casl-00_body face=mdl_chr_skr-base-00_face hair=mdl_chr_skr-base-00_hair] actors=[actor id=ktn body=mdl_chr_ktn-casl-00_body face=mdl_chr_ktn-base-00_face hair=mdl_chr_ktn-base-00_hair] actors=[actor id=koh body=mdl_chr_koh-casl-00_body face=mdl_chr_koh-base-00_face hair=mdl_chr_koh-base-00_hair] actors=[actor id=mna body=mdl_chr_mng-casl-00_body face=mdl_chr_mng-base-00_face hair=mdl_chr_mng-base-00_hair]]
-[title title=호시미 편 3장 24화 내 심장은 누구 거야?]
+[title title=호시미편 3장 24화 내 심장은 누구 거야?]
 [bgm bgm=sud_bgm_adv_serious-01 clip=\{"_startTime":0.0,"_duration":78.41766446431478,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [backgroundlayoutgroup layouts=[backgroundlayout id=01-2d]]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

@@ -5,7 +5,7 @@
 [actormotion id=mna motion=mot_adv_chr_cmn_talk-002_pose clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=ngs motion=mot_adv_chr_cmn_talk-001_in clip=\{"_startTime":0.0,"_duration":2.6666667461395265,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=hrk motion=mot_adv_chr_cmn_talk-002_pose clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[title title=호시미 편 1장 7화 새 멤버는 어떤 애?]
+[title title=호시미편 1장 7화 새 멤버는 어떤 애?]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":0.0,"_duration":32.146474035581018,"_easeInDuration":0.5,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_flashback-01 clip=\{"_startTime":32.160329079628009,"_duration":24.837499928474395,"_easeInDuration":0.5,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":62.72699574629466,"_duration":35.97300425370534,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
