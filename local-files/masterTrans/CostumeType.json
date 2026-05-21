@@ -5,8 +5,11 @@
   "data": {
     "casl|name": "사복",
     "gene|name": "사복풍 아이돌 의상",
+    "hruh|name": "SOS단",
     "idol|name": "아이돌 의상",
     "idol-miku|name": "아이돌 의상_미쿠",
+    "idol-miku-mizg|name": "수영복_미쿠",
+    "kion|name": "사쿠라가오카 여자 고등학교",
     "mizg|name": "수영복",
     "mizg-all-ng|name": "수영복_전 NG",
     "mizg-water-ng|name": "수영복_착수 NG",
@@ -14,6 +17,9 @@
     "schl|name": "교복",
     "sd-ambassador|name": "친선대사",
     "sd-police|name": "일일서장",
+    "snro|name": "산리오 캐릭터즈 콜라보",
+    "trbl|name": "To LOVEる",
+    "trbl-mizg|name": "트러블 산타",
     "trng|name": "트레이닝",
     "waso|name": "와소"
   }

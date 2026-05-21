@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=bg2 src=env_adv_2d_hillpark-00-noon] backgrounds=[background id=hoshistage-00-noon src=env_adv_2d_hoshistage-00-noon]]
 [actorgroup actors=[actor id=kkr body=mdl_chr_kkr-casl-01_body face=mdl_chr_kkr-base-00_face hair=mdl_chr_kkr-base-00_hair] actors=[actor id=ai body=mdl_chr_ai-casl-01_body face=mdl_chr_ai-base-00_face hair=mdl_chr_ai-base-00_hair] actors=[actor id=suz body=mdl_chr_suz-casl-01_body face=mdl_chr_suz-base-00_face hair=mdl_chr_suz-base-00_hair]]
-[title title=きょうえん！HTT＆HMA 3話 星見音楽フェスの宣伝隊長]
+[title title=공연! HTT & HMA 3화 호시미 음악 페스티벌 홍보 대사]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":0.0,"_duration":24.5672555765,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pretty-01 clip=\{"_startTime":28.699206416,"_duration":46.8796586355,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_backstage-01 volume=0.862 clip=\{"_startTime":78.9999992371,"_duration":28.0333318074,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
