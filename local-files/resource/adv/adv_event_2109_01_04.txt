@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=stage01 src=env_adv_2d_tokyocafe-00-noon]]
 [actorgroup actors=[actor id=ai body=mdl_chr_ai-casl-01_body face=mdl_chr_ai-base-00_face hair=mdl_chr_ai-base-00_hair] actors=[actor id=suz body=mdl_chr_suz-casl-01_body face=mdl_chr_suz-base-00_face hair=mdl_chr_suz-base-00_hair] actors=[actor id=kkr body=mdl_chr_kkr-casl-01_body face=mdl_chr_kkr-base-00_face hair=mdl_chr_kkr-base-00_hair] actors=[actor id=aoi body=mdl_chr_aoi-casl-01_body face=mdl_chr_aoi-base-00_face hair=mdl_chr_aoi-base-00_hair] actors=[actor id=rio body=mdl_chr_rio-casl-01_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-base-00_hair others=mdl_prp_smartphone-normal-l00_smartphone]]
 [actorrenderer id=rio assets=mdl_prp_smartphone-normal-l00_smartphone]
-[title title=싹트는 검은 백합의 봉오리 4화 리오의 속마음]
+[title title=싹트는 흑백합의 봉오리 4화 리오의 속마음]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":0.0,"_duration":107.83333333333332,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":1.2666666666666667,"_duration":0.7999999999999998,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

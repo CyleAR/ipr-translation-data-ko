@@ -795,6 +795,14 @@
     "race-qt-25-0104-panel-015-003|description": "VENUS 스테이지",
     "race-qt-25-0104-panel-015-003|name": "VENUS 스테이지",
     "race-qt-25-0104-pt|description": "레이스 Pt",
-    "race-qt-25-0104-pt|name": "레이스 Pt"
+    "race-qt-25-0104-pt|name": "레이스 Pt",
+    "race-qt-25-0625-medal|description": "레이스 메달",
+    "race-qt-25-0625-medal|name": "레이스 메달",
+    "race-qt-25-1028-medal|description": "레이스 메달",
+    "race-qt-25-1028-medal|name": "레이스 메달",
+    "race-qt-26-0104-medal|description": "레이스 메달",
+    "race-qt-26-0104-medal|name": "레이스 메달",
+    "race-qt-26-0226-medal|description": "레이스 메달",
+    "race-qt-26-0226-medal|name": "레이스 메달"
   }
 }

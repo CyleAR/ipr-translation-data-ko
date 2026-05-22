@@ -8,7 +8,7 @@
 [actorfacialmotion id=ai motion=mot_all_chr_cmn_facial-032_in transition=0 clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=aoi motion=mot_adv_chr_cmn_talk-003_pose clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorfacialmotion id=aoi motion=mot_all_chr_cmn_facial-032_in transition=0 clip=\{"_startTime":0.0,"_duration":0.03333333507180214,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[title title=싹트는 검은 백합의 봉오리 5화 The Last Chance]
+[title title=싹트는 흑백합의 봉오리 5화 The Last Chance]
 [bgm bgm=sud_bgm_adv_serious-01 clip=\{"_startTime":0.0,"_duration":83.93333333333334,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.8999999999999999,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.8000000000000003,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

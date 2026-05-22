@@ -471,6 +471,7 @@
     "deco_full_gift-25-0728-01|name": "The ⅢX 개최 기념",
     "deco_full_gift-25-0801-01|description": "릴리스 1500일 기념 명함 데코레이션",
     "deco_full_gift-25-0801-01|name": "릴리스 1500일 기념",
+    "deco_full_gift-25-0802-01|description": "단독 라이브 개최 기념 명함 데코레이션",
     "deco_full_gift-25-0802-01|name": "star tomorrow -여름-",
     "deco_full_gift-25-0826-01|description": "하츠네 미쿠 콜라보 개최 기념 명함 데코레이션",
     "deco_full_gift-25-0826-01|name": "하츠네 미쿠 콜라보 개최 기념",
@@ -482,7 +483,9 @@
     "deco_full_gift-25-1224-01|name": "4.5주년 명함 데코레이션",
     "deco_full_gift-26-0128-01|description": "발렌타인 명함 데코레이션",
     "deco_full_gift-26-0128-01|name": "발렌타인 2026",
+    "deco_full_gift-26-0222-01|description": "단독 라이브 개최 기념 명함 데코레이션",
     "deco_full_gift-26-0222-01|name": "sunny wings",
+    "deco_full_gift-26-0307-01|description": "단독 라이브 개최 기념 명함 데코레이션",
     "deco_full_gift-26-0307-01|name": "moon lily",
     "deco_full_gift-26-0327-01|name": "IDOLY MATCH~지하투기장에 도전~",
     "deco_full_gift-26-0401-01|description": "물고기☆HEAVEN 명함 데코레이션",
@@ -490,6 +493,7 @@
     "deco_full_gift-26-0407-01|name": "스프링 2026",
     "deco_full_gift-26-0504-01|description": "산리오 콜라보 개최 기념 명함 데코레이션",
     "deco_full_gift-26-0504-01|name": "산리오 콜라보",
-    "deco_full_shop-26-0504-01|name": "산리오 콜라보 특별"
+    "deco_full_shop-26-0504-01|name": "산리오 콜라보 특별",
+    "deco_full_sp-live-25-0330-01|description": "단독 라이브 개최 기념 명함 데코레이션"
   }
 }

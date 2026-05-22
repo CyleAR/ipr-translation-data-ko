@@ -4,12 +4,25 @@
   ],
   "data": {
     "photo_activity-living|name": "도쿄 기숙사 거실",
+    "photo_activity-living_02|name": "도쿄 기숙사 거실②",
+    "photo_activity-living_03|name": "도쿄 기숙사 거실③",
     "photo_activity-theme_park|name": "테마파크",
+    "photo_activity-theme_park_02|name": "테마파크②",
+    "photo_activity-theme_park_03|name": "테마파크③",
     "photo_expression-april|name": "물고기☆HEAVEN",
+    "photo_expression-bedrockbath|name": "암반욕",
+    "photo_expression-bedrockbath_02|name": "암반욕②",
+    "photo_expression-bedrockbath_03|name": "암반욕③",
     "photo_expression-garden|name": "가든 테라스",
     "photo_expression-hillpark|name": "호시미시 언덕",
-    "photo_expression-lesson|name": "연습실",
+    "photo_expression-hillpark_02|name": "호시미시 언덕②",
+    "photo_expression-hillpark_03|name": "호시미시 언덕③",
+    "photo_expression-lesson|name": "레슨실",
+    "photo_expression-lesson_02|name": "레슨실②",
+    "photo_expression-lesson_03|name": "레슨실③",
     "photo_expression-pool|name": "수영복 그라비아 촬영",
+    "photo_expression-pool_02|name": "수영복 그라비아 촬영②",
+    "photo_expression-pool_03|name": "수영복 그라비아 촬영③",
     "photo_expression-sos|name": "문예부실"
   }
 }

@@ -12,7 +12,7 @@
     "photo_activity-22-0328-studio-00|name": "촬영 스튜디오",
     "photo_activity-22-0328-video_destribution-00|name": "방송 출연",
     "photo_activity-22-0628-cafe-00|name": "카페",
-    "photo_activity-22-0628-pool-00|name": "수영복 화보 촬영",
+    "photo_activity-22-0628-pool-00|name": "수영복 그라비아 촬영",
     "photo_activity-22-0628-shopping-00|name": "쇼핑",
     "photo_activity-22-0628-themepark-00|name": "테마파크",
     "photo_activity-22-0831-recording-00|name": "라디오 녹음",
@@ -25,7 +25,7 @@
     "photo_activity-22-1227-shopping-00|name": "쇼핑",
     "photo_activity-23-0626-bedrock-00|name": "암반욕",
     "photo_activity-23-0626-garden-02|name": "가든 테라스",
-    "photo_activity-23-0626-pool-00|name": "수영복 화보 촬영",
+    "photo_activity-23-0626-pool-00|name": "수영복 그라비아 촬영",
     "photo_activity-23-0626-themepark-00|name": "테마파크",
     "photo_activity-24-0129-aj-00|name": "전시공간",
     "photo_activity-24-0129-cafe-00|name": "카페",
@@ -34,6 +34,9 @@
     "photo_activity-24-0626-bedrock-00|name": "암반욕",
     "photo_activity-24-0626-catstreet-00|name": "쇼핑",
     "photo_activity-24-0626-hot_spring-00|name": "온천",
-    "photo_activity-24-0626-lesson-00|name": "연습실"
+    "photo_activity-24-0626-lesson-00|name": "연습실",
+    "photo_activity-25-0826-hillpark-00|name": "호시미시 언덕",
+    "photo_activity-25-0826-pool-00|name": "수영복 그라비아 촬영",
+    "photo_activity-25-0826-pool-miku|name": "수영복 그라비아 촬영"
   }
 }
