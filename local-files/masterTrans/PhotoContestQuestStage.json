@@ -17,8 +17,10 @@
     "contest_quest_stage-22-1227-01|name": "일본 전통관",
     "contest_quest_stage-22-1227-02|name": "신주쿠 FLAME",
     "contest_quest_stage-22-1227-03|name": "Rapture 시부야",
+    "contest_quest_stage-23-0626-01|name": "Zip Tokyo",
     "contest_quest_stage-23-0626-02|name": "뉴 돔 도쿄",
     "contest_quest_stage-23-0626-03|name": "신국립기념경기장",
+    "contest_quest_stage-23-1128-01|name": "Zip Tokyo",
     "contest_quest_stage-23-1128-02|name": "뉴 돔 도쿄",
     "contest_quest_stage-23-1128-03|name": "선샤인!! 스테이지",
     "contest_quest_stage-24-0129-01|name": "퍼시픽 돔",
@@ -27,8 +29,14 @@
     "contest_quest_stage-24-0129-04|name": "미라이 커넥트 스테이지",
     "contest_quest_stage-24-0626-01|name": "일본 전통관",
     "contest_quest_stage-24-0626-02|name": "파크 아레나 사이타마",
+    "contest_quest_stage-24-0626-03|name": "Zip Tokyo",
     "contest_quest_stage-24-0626-04|name": "Rapture 시부야",
     "contest_quest_stage-24-1128-01|name": "뉴 돔 도쿄",
-    "contest_quest_stage-24-1128-03|name": "프리티 래빗 스테이지"
+    "contest_quest_stage-24-1128-02|name": "Zip Tokyo",
+    "contest_quest_stage-24-1128-03|name": "프리티 래빗 스테이지",
+    "contest_quest_stage-25-0826-02|name": "미라이 커넥트 스테이지",
+    "contest_quest_stage-25-0826-03|name": "미라이 커넥트 스테이지",
+    "contest_quest_stage-25-0826-04|name": "요코하마 가든 홀",
+    "contest_quest_stage-25-0826-05|name": "신주쿠 FLAME"
   }
 }
