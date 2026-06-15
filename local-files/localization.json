@@ -2002,7 +2002,7 @@
   "gacha.confirm.title": "캐스팅 확인",
   "gacha.confirm.description": "{0}[을/를] 소비하여 캐스팅을 실행합니다.",
   "gacha.confirm.description.free": "무료 캐스팅을 실행합니다.",
-  "gacha.confirm.item.multiple": "{0}{1}장당 1회",
+  "gacha.confirm.item.multiple": "{0} {1}장당 1회",
   "gacha.draw": "캐스팅 실행",
   "gacha.buyStone": "다이아 구입",
   "gacha.stoneNotEnough": "다이아가 부족합니다",
