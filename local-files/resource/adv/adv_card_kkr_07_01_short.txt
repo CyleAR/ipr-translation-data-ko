@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=tokyoconference-00-noon src=env_adv_2d_tokyoconference-00-noon] backgrounds=[background id=tokyokkrroom-00-night src=env_adv_2d_tokyokkrroom-00-night]]
 [actorgroup actors=[actor id=kkr body=mdl_chr_kkr-casl-01_body face=mdl_chr_kkr-base-00_face hair=mdl_chr_kkr-base-00_hair]]
-[title title=赤崎こころ 1話 こころは絶対歌います！]
+[title title=아카자키 코코로 1화 코코로는 반드시 노래할 거예요!]
 [bgm bgm=sud_bgm_adv_tokyo-01 clip=\{"_startTime":0.0,"_duration":29.947823139,"_easeInDuration":0.0,"_easeOutDuration":0.6,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":31.356780223,"_duration":27.5141919771,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

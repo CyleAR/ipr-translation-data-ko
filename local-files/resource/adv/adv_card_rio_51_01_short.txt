@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=designoffice-00-noon src=env_adv_2d_designoffice-00-noon] backgrounds=[background id=env_adv_3d_lesson-02-000-noon src=env_adv_3d_lesson-02-000-noon] backgrounds=[background id=dancestudiocorridor-00-noon src=env_adv_2d_dancestudiocorridor-00-noon]]
 [actorgroup actors=[actor id=rio body=mdl_chr_rio-casl-01_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-base-00_hair] actors=[actor id=rei body=mdl_chr_rei-trng-00_body face=mdl_chr_rei-base-00_face hair=mdl_chr_rei-base-00_hair] actors=[actor id=aoi body=mdl_chr_aoi-trng-00_body face=mdl_chr_aoi-base-00_face hair=mdl_chr_aoi-base-00_hair]]
-[title title=칸자키 리오 1화 리오의 무리한 부탁]
+[title title=칸자키 리오 1화 리오의 억지]
 [bgm bgm=sud_bgm_adv_main-01 clip=\{"_startTime":3.0066665791,"_duration":14.0266671436,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_studio-01 clip=\{"_startTime":18.6333327054,"_duration":38.8206533115,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
