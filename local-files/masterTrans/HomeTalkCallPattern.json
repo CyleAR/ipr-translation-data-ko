@@ -416,6 +416,8 @@
     "char-mei|call-pattern-mei-12|managerCallText": "수고가 많으세요",
     "char-mei|call-pattern-mei-13|characterArrivalText": "그러고 보니 \n{user} 오빠는\n요즘 자주 웃는 것 같네?",
     "char-mei|call-pattern-mei-13|managerCallText": "수고가 많으세요",
+    "char-mhk|call-pattern-card-mhk-05-chna-00|characterArrivalText": "대만 라이브 끝난 뒤에, 다음엔 \n셋이서 다시 방문해 달라는\n인사치레를 들었습니다.",
+    "char-mhk|call-pattern-card-mhk-05-chna-00|managerCallText": "수고하십니다",
     "char-mhk|call-pattern-card-mhk-05-fest-02|characterArrivalText": "요우는… 정말 멋진, 제 소중한 친구였어요.",
     "char-mhk|call-pattern-card-mhk-05-fest-02|managerCallText": "수고하십니다",
     "char-mhk|call-pattern-card-mhk-05-idol-00|characterArrivalText": "그렇군요.. 이런 곳도...",
