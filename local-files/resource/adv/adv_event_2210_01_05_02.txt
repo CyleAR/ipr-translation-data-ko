@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=livestage-00-noon src=env_adv_2d_livestage-00-noon] backgrounds=[background id=stagesleeves-00-noon src=env_adv_2d_stagesleeves-00-noon] backgrounds=[background id=cemetery-00-noon src=env_adv_2d_cemetery-00-noon]]
 [actorgroup actors=[actor id=rio body=mdl_chr_rio-kiok-00_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-kiok-00_hair] actors=[actor id=aoi body=mdl_chr_aoi-casl-01_body face=mdl_chr_aoi-base-00_face hair=mdl_chr_aoi-base-00_hair] actors=[actor id=ktn body=mdl_chr_ktn-kiok-00_body face=mdl_chr_ktn-base-00_face hair=mdl_chr_ktn-kiok-00_hair]]
-[title title=운명을 잇는 유성의 궤적 5화 별 바다의 기억]
+[title title=운명을 잇는 유성의 궤적 5화 별바다의 기억]
 [bgm bgm=sud_bgm_adv_backstage-01 clip=\{"_startTime":0.4333333333,"_duration":77.5572622021,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_flashback-01 clip=\{"_startTime":80.4,"_duration":27.0666666666,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_mna-02 clip=\{"_startTime":107.9666666667,"_duration":55.6333333334,"_easeInDuration":0.0,"_easeOutDuration":1.4,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
