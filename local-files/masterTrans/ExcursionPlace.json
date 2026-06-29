@@ -1,0 +1,11 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "ex-pool|name": "수영장",
+    "ex-seaside|name": "해안",
+    "ex-shopping|name": "쇼핑",
+    "ex-themepark|name": "관람차"
+  }
+}
