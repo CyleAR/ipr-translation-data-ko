@@ -97,6 +97,7 @@
     "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support|description": "<서포터 타입만>\n부여하는 소비 스태미나 감소 효과를 {0}단계 증강합니다",
     "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support|name": "부여・소비 스태미나 감소 증강",
     "pab-affect_strength_effect_value_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support|description": "<서포터 타입만>\n부여하는 스태미나 지속 회복 효과를 {0}단계 증강합니다",
+    "pab-affect_strength_effect_value_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support|name": "부여・스태미나 지속 회복 증강",
     "pab-affect_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-technique|description": "<버퍼 타입만> 부여하는 텐션 UP 효과를 {0}단계 증강합니다",
     "pab-affect_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-technique|name": "부여・텐션 증강",
     "pab-affect_strength_effect_value_increase-visual_boost_recipe_distribution-5-cd-technique|description": "<버퍼 타입만>\n부여하는 비주얼 부스트 효과를 {0}단계 증강합니다",
