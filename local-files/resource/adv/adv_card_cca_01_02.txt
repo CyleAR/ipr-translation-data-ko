@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=s1 src=env_adv_2d_woodentownstreet-00-noon]]
 [actorgroup actors=[actor id=cca body=mdl_chr_cca-goch-00_body face=mdl_chr_cca-base-00_face hair=mdl_chr_cca-base-00_hair others=mdl_prp_featurephone-normal-l00_featurephone] actors=[actor id=chs body=mdl_chr_chs-goch-00_body face=mdl_chr_chs-base-00_face hair=mdl_chr_chs-base-00_hair]]
 [actorrenderer id=cca assets=mdl_prp_featurephone-normal-l00_featurephone]
-[title title=ココア 2話 あのうさぎさんだーーーーっ！！]
+[title title=호토 코코아 2화 언니에게 맡겨줘]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":0.0,"_duration":50.6913058601,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_main-01 clip=\{"_startTime":51.1913058601,"_duration":64.5433972357,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":121.1200319131,"_duration":28.8805495261,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
