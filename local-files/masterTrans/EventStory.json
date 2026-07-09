@@ -42,7 +42,7 @@
     "st-eve-2212-race|name": "이벤트 스토리",
     "st-eve-2301-contest|description": "최고우미*비약의 카운트다운",
     "st-eve-2301-contest|name": "이벤트 스토리",
-    "st-eve-2302-marathon-raid|description": "지켜라! 순결의 베제～imposition of love～",
+    "st-eve-2302-marathon-raid|description": "지켜라! 순결의 베제~imposition of love~",
     "st-eve-2302-marathon-raid|name": "이벤트 스토리",
     "st-eve-2303-race|description": "파자마 파티! ~ 꿈꾸는 소녀와 잠자는 공주 ~",
     "st-eve-2303-race|name": "이벤트 스토리",
@@ -114,6 +114,8 @@
     "st-eve-2605-marathon-raid|description": "헬로! 아이돌♪ 꿈으로 이어지는 미라클 스테이지",
     "st-eve-2605-marathon-raid|name": "이벤트 스토리",
     "st-eve-2606-dice|description": "날아올라라! 보답의 Aile",
-    "st-eve-2606-dice|name": "이벤트 스토리"
+    "st-eve-2606-dice|name": "이벤트 스토리",
+    "st-eve-2607-marathon-raid|description": "PRIDE 관철하는 정점을 향한 이정표",
+    "st-eve-2607-marathon-raid|name": "이벤트 스토리"
   }
 }

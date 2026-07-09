@@ -47210,7 +47210,7 @@
     "message-vns-function-pvp|name": "'VENUS 배틀'",
     "message-vns-function-quest-contest|details[0].text": "'하이스코어 라이브'가 오픈되었습니다. 라이브에 도전하여 하이스코어를 경신하면 다양한 보상을 얻을 수 있습니다. 한 번 클리어한 라이브도 정기적으로 도전해서 하이스코어를 갱신해 보세요.\n\n[홈 > 라이브 > 하이스코어 라이브]",
     "message-vns-function-quest-contest|name": "'하이스코어 라이브'",
-    "message-vns-function-quest-daily|details[0].text": "'데일리 라이브'가 오픈되었습니다. 데일리 라이브에서는 각종 아이템을 많이 획득할 수 있습니다. 매일 2장의 무료 패스가 지급되니 빠짐없이 라이브를 진행해 보세요. 또한 라이브 패스는 [SHOP > 데일리상점]에서 구입할 수도 있습니다.\n\n[홈 > 라이브 > 데일리 라이브]",
+    "message-vns-function-quest-daily|details[0].text": "'데일리 라이브'가 오픈되었습니다. 데일리 라이브에서는 각종 아이템을 많이 획득할 수 있습니다. 매일 2장의 무료 패스가 지급되니 빠짐없이 라이브를 진행해 보세요. 또한 라이브 패스는 [상점 > 데일리상점]에서 구입할 수도 있습니다.\n\n[홈 > 라이브 > 데일리 라이브]",
     "message-vns-function-quest-daily|name": "'데일리 라이브'",
     "message-vns-function-quest-tower|details[0].text": "'VENUS 타워'가 오픈되었습니다. 각 스테이지를 클리어하면 푸짐한 보상을 받을 수 있습니다. 또한 '호시미편' 스토리도 해제됩니다.\n\n[홈 > 라이브 > VENUS 타워]",
     "message-vns-function-quest-tower|name": "'VENUS 타워'"
