@@ -1748,7 +1748,7 @@
   "mission.cell.receive": "수령",
   "mission.cell.detail": "확인",
   "mission.cell.received": "수령 완료",
-  "mission.cell.received.overCardRarityExpLimitChange": "블룸피스로 변환됩니다",
+  "mission.cell.received.overCardRarityExpLimitChange": "블룸피스로 전환됩니다",
   "mission.detail.sheet.title": "미션 내용",
   "mission.detail.sheet.description": "조건을 달성하면 보상을 수령할 수 있습니다.",
   "mission.detail.sheet.execute": "이동",

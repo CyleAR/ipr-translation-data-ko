@@ -1,0 +1,35 @@
+{
+  "rule": [
+    "characterId|excursionPlaceId|number|text"
+  ],
+  "data": {
+    "char-ai|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ai|ex-pool|4|text": "촬영 연습을 해보자",
+    "char-ai|ex-seaside|1|text": "바다라고 하면…",
+    "char-ai|ex-seaside|2|text": "표정에서 성장이 느껴진다",
+    "char-aoi|ex-pool|1|text": "물총으로 놀아보자",
+    "char-chs|ex-pool|1|text": "물총으로 놀아보자",
+    "char-chs|ex-seaside|2|text": "표정에서 성장이 느껴진다",
+    "char-hrk|ex-pool|1|text": "물총으로 놀아보자",
+    "char-hrk|ex-pool|4|text": "촬영 연습을 해보자",
+    "char-kan|ex-pool|1|text": "물총으로 놀아보자",
+    "char-kkr|ex-pool|1|text": "물총으로 놀아보자",
+    "char-kor|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ktn|ex-pool|1|text": "물총으로 놀아보자",
+    "char-mei|ex-pool|1|text": "물총으로 놀아보자",
+    "char-mhk|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ngs|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ngs|ex-pool|4|text": "촬영 연습을 해보자",
+    "char-rei|ex-pool|1|text": "물총으로 놀아보자",
+    "char-rio|ex-pool|1|text": "물총으로 놀아보자",
+    "char-rui|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ski|ex-pool|1|text": "물총으로 놀아보자",
+    "char-ski|ex-pool|4|text": "촬영 연습을 해보자",
+    "char-skr|ex-pool|1|text": "물총으로 놀아보자",
+    "char-smr|ex-pool|1|text": "물총으로 놀아보자",
+    "char-suz|ex-pool|1|text": "물총으로 놀아보자",
+    "char-szk|ex-pool|1|text": "물총으로 놀아보자",
+    "char-yu|ex-pool|1|text": "물총으로 놀아보자",
+    "char-yu|ex-pool|4|text": "촬영 연습을 해보자"
+  }
+}
