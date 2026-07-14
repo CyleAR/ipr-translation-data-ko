@@ -2743,7 +2743,7 @@
   "marathon.sheet.raidStaminaRecovery.description": "아이템을 소비하여 K스태미나를 회복합니다.",
   "marathon.sheet.raidStaminaRecovery.select": "선택",
   "marathon.sheet.raidStaminaRecovery.staminaEnough.description": "K스태미나가 부족합니다.",
-  "marathon.sheet.raidStaminaRecovery.require.kStamina": "(최소 소비 K스태미나：{0})",
+  "marathon.sheet.raidStaminaRecovery.require.kStamina": "(최소 소비 K스태미나: {0})",
   "marathon.sheet.raidStaminaRecovery.stamina": "K스태미나",
   "marathon.sheet.raidStaminaRecovery.button": "협력 체력 회복",
   "marathon.sheet.raidStaminaRecovery.recovered.toast": "K스태미나를 회복하였습니다",
