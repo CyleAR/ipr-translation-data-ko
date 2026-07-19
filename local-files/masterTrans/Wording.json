@@ -110,7 +110,7 @@
     "gacha.exchange.costume|word": "의상: {0}",
     "gacha.exchange.notice|word": "캐스팅 Pt‚ 교환 내용은 캐스팅별로 달라집니다.\n이미 보유 중인 아이돌과 교환하는 경우‚ 개화 Pt로 전환됩니다.\n\n'개화Pt 제공 캐스팅'의 경우 픽업 아이돌을 교환했을 시에도 개화Pt가 제공됩니다.\n픽업 아이돌이 아닌 아이돌에는 개화Pt는 제공되지 않습니다.",
     "gacha.normalGacha.bonusReward|word": "세트\n보상",
-    "gacha.normalGacha.continueCondition|word": "5주년 기념 무제한 캐스팅",
+    "gacha.normalGacha.continueCondition|word": "초심자 무제한 캐스팅",
     "gacha.normalGacha.detail.probability.hair|word": "헤어 스타일",
     "gacha.normalGacha.detail.probability.idle|word": "※이미 보유 중인 경우 프리미엄 포토 메달×1 로 변환",
     "gacha.normalGacha.detail.probability.normal|word": "상세정보",
