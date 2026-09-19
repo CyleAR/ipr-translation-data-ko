@@ -16,13 +16,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
           
+      - name: Checkout iOS data compiler
+        uses: actions/checkout@v4
+        with:
+          repository: CyleAR/hoshimi-localify-ios
+          path: .ios-builder
+
+      - name: Compile iOS data indexes
+        run: |
+          mkdir -p ios-data
+          python .ios-builder/tools/localization_data.py . ios-data/localization.bin
+          python .ios-builder/tools/master_data.py . ios-data/master.bin
+          python .ios-builder/tools/generic_data.py . ios-data/generic.bin
+          python .ios-builder/tools/phone_data.py . ios-data/phone.bin
+
       - name: Download artifacts
         uses: actions/download-artifact@v4
         continue-on-error: true
 
       - name: Package
         run: |
-          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip version.txt local-files
+          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip version.txt local-files ios-data
 
       - name: Get version
         id: vars
