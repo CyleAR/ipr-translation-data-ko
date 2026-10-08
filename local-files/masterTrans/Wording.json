@@ -107,6 +107,8 @@
     "friend.top.invite.share.text|word": "코드를 입력하여 다이아를 받자\n아이돌리 프라이드를 시작할 생각이라면 지금이 찬스!\n▼초대 코드\n{0}\n\nhttps://ppl.cm/IDOLYPRIDE\n\n※ 메인 라이브 #1 클리어 이후 입력 가능\n# 아이프라",
     "function.maintenance.toast.message|word": "상점 점검 중입니다",
     "gacha.button.appeal.drawableLimitCount|word": "1일 1회",
+    "gacha.continuousGacha.share.tweet.template|word": "\n다운로드는 여기에서\n▶︎https://idolypride.page.link/230120tw\n\n\n#무제한뽑기가챠",
+    "gacha.continuousGacha.share.tweet.template.title|word": "＼ #아이프라 무제한 뽑기/\n\n지금 새로 게임을 시작한 모든 분들을 대상으로 합니다️!\n★5 아이돌 3명 이상 확정\n결과를 올리면 추가로 10연 가챠를 뽑을 수 있어!",
     "gacha.exchange.costume|word": "의상: {0}",
     "gacha.exchange.notice|word": "캐스팅 Pt, 교환 내용은 캐스팅별로 달라집니다.\n이미 보유 중인 아이돌과 교환하는 경우, 개화 Pt로 전환됩니다.\n\n'개화Pt 제공 캐스팅'의 경우 픽업 아이돌을 교환했을 시에도 개화Pt가 제공됩니다.\n픽업 아이돌이 아닌 아이돌에는 개화Pt는 제공되지 않습니다.",
     "gacha.normalGacha.bonusReward|word": "세트\n보상",
