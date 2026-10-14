@@ -766,7 +766,6 @@
     "help_content-help-love-extra|contents[5].title": "스케줄",
     "help_content-help-love-extra|contents[6].text": "■서큐×마법Exp\n서큐×마법 Lv를 올리기 위해 필요합니다.\n이벤트 홈에서 받을 수 있습니다.\n\n■서큐×마법 스킵 드링크\n2시간 분량의 「서큐×마법 Exp」와 「서큐×마법 스토리 Pt」를 받으실 수 있습니다.\n\n■서큐×마법 스토리 Pt\n스토리를 읽기 위해 필요합니다.\n이벤트 홈에서 받을 수 있습니다.",
     "help_content-help-love-extra|contents[6].title": "아이템",
-    "help_content-help-love-extra|contents[7].text": "일정 수의 서큐×마법 lv에 도달하면 힌트 기능이 해금됩니다.\n\n초기 상태에서는 힌트 기능이 OFF이지만, 힌트 기능을 사용할 경우 스토리 선택지 표시 시 아래와 같은 힌트를 표시합니다.\n\n·힌트 Lv1: ‘중요한 장면’을 알 수 있습니다\n·힌트 Lv2: ‘중요한 선택지’를 알 수 있습니다\n\n힌트 기능은 공략을 진행하기 쉽게 도와주는 지원 기능이며, OFF가 기본 설정입니다.\n실제로 사용할지는 선택 가능하며, 이벤트 홈 설정이나 스토리 재생 화면에서 변경할 수 있습니다.\n힌트 기능을 사용하셔도 보상이나 과제 클리어 상황에는 영향을 주지 않으니 안심하세요.",
     "help_content-help-love-extra|contents[7].title": "힌트 기능",
     "help_content-help-love-extra|contents[8].text": "어느 한 엔드를 한 번 클리어하면 해제됩니다.\n\n세이브·로드 기능을 통해 이전 플레이 상황을 저장해 둘 수 있으며, 로드함으로써 세이브 당시의 상태로 복귀할 수 있습니다.\n다만, 세이브·로드 기능으로 저장되는 내용은 1화부터 해당 시점까지의 스토리 선택 상태만 대상입니다.\n\n과제 내용은 저장 대상이 아니며, 로드를 해도 그 시점의 상태로 되돌아가지 않습니다.",
     "help_content-help-love-extra|contents[8].title": "세이브·로드 기능",

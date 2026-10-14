@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=preconference-00-noon src=env_adv_2d_preconference-00-noon] backgrounds=[background id=tokyotown-00-noon src=env_adv_2d_tokyotown-00-noon] backgrounds=[background id=tokyocafe-00-noon src=env_adv_2d_tokyocafe-00-noon] backgrounds=[background id=tokyoentrance-00-noon src=env_adv_2d_tokyoentrance-00-noon]]
 [actorgroup actors=[actor id=mhk body=mdl_chr_mhk-casl-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair] actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair] actors=[actor id=kan body=mdl_chr_kan-casl-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-base-00_hair]]
-[title title=IIIX 1장 20화 이 약속만큼은 계속]
+[title title=ⅢX 1장 20화 이 약속만큼은 계속]
 [bgm bgm=sud_bgm_adv_tension-01 clip=\{"_startTime":0.0,"_duration":61.9080045383,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_contact-01 clip=\{"_startTime":69.4,"_duration":35.3666666667,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_trouble-01 clip=\{"_startTime":105.2666666667,"_duration":16.9,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

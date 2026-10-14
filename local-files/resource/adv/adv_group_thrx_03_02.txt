@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=talkstudio-00-noon src=env_adv_2d_talkstudio-00-noon] backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon] backgrounds=[background id=vanlocker-00-noon src=env_adv_2d_vanlocker-00-noon] backgrounds=[background id=hotelconference-00-noon src=env_adv_2d_hotelconference-00-noon] backgrounds=[background id=preconference-00-noon src=env_adv_2d_preconference-00-noon]]
 [actorgroup actors=[actor id=mhk body=mdl_chr_mhk-idol-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair] actors=[actor id=kor body=mdl_chr_kor-idol-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair] actors=[actor id=kan body=mdl_chr_kan-idol-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-idol-00_hair]]
-[title title=IIIX 1장 12화 수상한 이야기]
+[title title=ⅢX 1장 12화 수상한 이야기]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":0.0,"_duration":56.7666666667,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":57.2666666667,"_duration":60.8,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":118.5666666667,"_duration":58.1333333333,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
