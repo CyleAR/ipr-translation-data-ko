@@ -3548,7 +3548,7 @@
   "maintenance.dialog.end.time": "종료 {0}",
   "maintenance.dialog.start.time.none": "-",
   "maintenance.dialog.end.time.none": "미정",
-  "maintenance.dialog.twitter": "공식 라운지",
+  "maintenance.dialog.twitter": "공식 SNS",
   "maintenance.error.dialog.title": "점검 중",
   "preparing.for.release.dialog.title": "출시 준비 중",
   "preparing.for.release.dialog.button.twitter": "공식 X",

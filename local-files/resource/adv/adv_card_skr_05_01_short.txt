@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=cdstage-01-noon src=env_adv_2d_cdstage-01-noon] backgrounds=[background id=shibuya-00-noon src=env_adv_2d_shibuya-00-noon] backgrounds=[background id=tokyocafe-00-noon src=env_adv_2d_tokyocafe-00-noon] backgrounds=[background id=famires src=env_adv_2d_famires-00-night]]
 [actorgroup actors=[actor id=skr body=mdl_chr_skr-idol-03_body face=mdl_chr_skr-base-00_face hair=mdl_chr_skr-idol-03_hair]]
-[title title=제1화 ”맛있고 맛있어요”]
+[title title=제1화 "맛있고 맛있어요"]
 [bgm bgm=sud_bgm_adv_sun-01 clip=\{"_startTime":0.0,"_duration":27.0666666667,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_outside-01 clip=\{"_startTime":27.5666666667,"_duration":48.8280723571,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
