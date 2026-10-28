@@ -95,7 +95,7 @@
   "common.time.remain.hms": "{0:00}:{1:00}:{2:00} 남음",
   "common.time.remain.second": "{0}초 남음",
   "common.time.hours": "{0}시간",
-  "common.time.second": "{0}초",
+  "common.time.second": "초",
   "common.time.hms": "{0}:{1:00}:{2:00}",
   "common.time.ms": "{0:00}:{1:00}",
   "common.time.elapsed.day": "{0}일 전",
