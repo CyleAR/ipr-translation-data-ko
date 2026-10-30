@@ -4183,5 +4183,19 @@
   "illimitable.setting.remove.diff.error": "난이도는 최소 1개 이상이어야 합니다",
   "illimitable.setting.add.diff": "새로운 난이도를 추가했습니다",
   "illimitable.setting.diff.execute": "난이도를 갱신했습니다",
-  "illimitable.setting.diff.sort": "스코어로 정렬했습니다"
+  "illimitable.setting.diff.sort": "스코어로 정렬했습니다",
+  "refund.button.label": "환불 신청은 여기에서",
+  "refund.button.limit": "{0}까지",
+  "refund.dialog.title": "환불 신청 안내",
+  "refund.dialog.stone.amount": "보유 블루 다이아",
+  "refund.dialog.guidance": "▼환불 신청은 여기에서",
+  "refund.dialog.execute": "환불 신청",
+  "refund.dialog.id": "환불 ID:",
+  "refund.dialog.copy": "탭하여 복사",
+  "refund.dialog.toast.copy": "ID를 복사했습니다",
+  "refund.dialog.Attention": "※버튼을 누르면 외부 사이트로 이동합니다.",
+  "refund.dialog.stone.empty.toast": "보유 블루 다이아가 없습니다",
+  "refund.dialog.not.created.account.toast": "환불 가능한 계정이 없습니다",
+  "purchase.stop.title": "구매 중단 안내",
+  "purchase.stop.description": "서비스 종료로 인해\n블루 다이아 구매가 중단되었습니다."
 }

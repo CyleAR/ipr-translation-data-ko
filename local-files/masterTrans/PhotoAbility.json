@@ -96,6 +96,8 @@
     "pab-affect_strength_effect_value_increase-score_up_recipe_distribution-5-cd-support|name": "부여・스코어 UP 증강",
     "pab-affect_strength_effect_value_increase-skill_success_rate_up_recipe_distribution-5-cd-support|description": "<서포터 타입만>\n부여하는 스킬 성공률 상승 효과를 {0}단계 증강합니다",
     "pab-affect_strength_effect_value_increase-skill_success_rate_up_recipe_distribution-5-cd-support|name": "부여・스킬 성공률 증강",
+    "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5|description": "부여하는 SP스킬 스코어 추가 효과를 {0}단계 증강합니다",
+    "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5|name": "부여・SP스코어 추가 효과 증강",
     "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support|description": "<서포터 타입만>\n부여하는 소비 스태미나 감소 효과를 {0}단계 증강합니다",
     "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support|name": "부여・소비 스태미나 감소 증강",
     "pab-affect_strength_effect_value_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support|description": "<서포터 타입만>\n부여하는 스태미나 지속 회복 효과를 {0}단계 증강합니다",
