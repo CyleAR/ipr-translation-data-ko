@@ -307,7 +307,7 @@
   "common.max": "MAX",
   "common.toast.reward.received": "보상을 받았습니다",
   "android.back.disable": "이 화면에서는 조작할 수 없습니다",
-  "emptyList.filter.toast": "해당하는 내용이 없습니다.",
+  "emptyList.filter.toast": "해당하는 내용이 없습니다",
   "manager.lv": "Lv{0}",
   "overlay.manager.lv.up": "매니저 Lv UP",
   "overlay.manager.lv.up.function": "{0}[이/가] 열렸습니다",
@@ -4194,7 +4194,7 @@
   "refund.dialog.copy": "탭하여 복사",
   "refund.dialog.toast.copy": "ID를 복사했습니다",
   "refund.dialog.Attention": "※버튼을 누르면 외부 사이트로 이동합니다.",
-  "refund.dialog.stone.empty.toast": "보유 블루 다이아가 없습니다",
+  "refund.dialog.stone.empty.toast": "보유한 블루 다이아가 없습니다",
   "refund.dialog.not.created.account.toast": "환불 가능한 계정이 없습니다",
   "purchase.stop.title": "구매 중단 안내",
   "purchase.stop.description": "서비스 종료로 인해\n블루 다이아 구매가 중단되었습니다."
