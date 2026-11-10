@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=ametown-00-noon src=env_adv_2d_ametown-00-noon] backgrounds=[background id=amepark-00-noon src=env_adv_2d_amepark-00-noon]]
 [actorgroup actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair]]
-[title title=fran 1화 설마, 거짓말이죠…!?]
+[title title=fran 1화 설마, 거짓말이죠…?!]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":0.0,"_duration":52.2281854153,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":55.633333842,"_duration":7.2564399719,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
